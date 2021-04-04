@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guide universitaire</string>
+    <string name="ajouter_une_universit">ajouter une université</string>
+    <string name="quitter">quitter</string>
+    <string name="lister_les_universit_s">lister les universités</string>
+    <string name="supprimer_une_universit">supprimer une université</string>
+    <string name="ville">Ville</string>
+    <string name="nom_de_l_universit">Nom de l’université</string>
+    <string name="id_de_l_universit">id de l\'université</string>
+</resources>
